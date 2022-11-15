@@ -37,3 +37,6 @@ console.log(shortenString('aaabbbcccddddd'));
 
 // test with repeating sets
 console.log(shortenString('aaadddaaadddddaaaaaadddddddd'));
+
+// test with all unique
+console.log(shortenString('asdf'));
